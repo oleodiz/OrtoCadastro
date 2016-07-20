@@ -19,5 +19,6 @@ namespace MaterialSkinExample
         public String dica{get;set;}
 
         public int nivel { get; set; }
+        public int nivel2 { get; set; }
     }
 }
