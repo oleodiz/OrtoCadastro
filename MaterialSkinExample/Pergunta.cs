@@ -9,6 +9,7 @@ namespace MaterialSkinExample
     public class Pergunta
     {
         public int num { get; set; }
+        public int num2 { get; set; }
         public string palavra{get;set;}
         public string titulo{get;set;}
         public string opcaoA { get; set; }
@@ -19,6 +20,5 @@ namespace MaterialSkinExample
         public String dica{get;set;}
 
         public int nivel { get; set; }
-        public int nivel2 { get; set; }
     }
 }
